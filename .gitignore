@@ -1,0 +1,8 @@
+#comment 
+tempfile.txt
+.DS_Store
+*.zip
+*.prj
+*.pvi
+log/*.log.[0-9]
+
